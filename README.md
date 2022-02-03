@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe Introduction to React
+
+This app was created by following the [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html). 
+
+As it was my first time using react, alot of time was spent trying to digest the tutorial and logic behind each step.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
